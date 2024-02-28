@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif](https://github.com/nathang15/CodePath-AND102-Wordle/assets/98335699/c8626ca0-7c54-4c54-acb9-2993f4bf9c03' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/nathang15/CodePath-AND102-Wordle/assets/98335699/c8626ca0-7c54-4c54-acb9-2993f4bf9c03' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with EzGif
